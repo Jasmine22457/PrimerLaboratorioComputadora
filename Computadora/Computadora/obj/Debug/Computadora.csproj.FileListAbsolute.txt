@@ -1,0 +1,6 @@
+C:\Users\ALUMNOS\Documents\Github\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.exe.config
+C:\Users\ALUMNOS\Documents\Github\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.exe
+C:\Users\ALUMNOS\Documents\Github\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.pdb
+C:\Users\ALUMNOS\Documents\Github\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOS\Documents\Github\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.exe
+C:\Users\ALUMNOS\Documents\Github\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.pdb
