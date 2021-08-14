@@ -24,8 +24,15 @@ namespace Computadora
             clscomputadora.Teclado = "redragon";
             clscomputadora.Fuente_de_poder =  "generica" ;
             clscomputadora.Ups = "toymachin";
-             
+
             //Console.WriteLine
-    }
+            Console.WriteLine(nclscomputadora.Saludo(clscomputadora));
+            Console.WriteLine(nclscomputadora.Reiniciar(clscomputadora));
+            Console.WriteLine(nclscomputadora.Apagar(clscomputadora));
+            Console.WriteLine(nclscomputadora.Encender(clscomputadora));
+            Console.ReadLine();
+
+
+        }
     }
 }
