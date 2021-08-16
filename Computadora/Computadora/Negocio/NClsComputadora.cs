@@ -23,7 +23,7 @@ namespace Computadora.Negocio
         }
         public string Encender(ClsComputadora computadora)
         {
-            return "";
+            return "La memoria Ram de su Pc con capacidad de" + computadora.Capacidad_ram + " GB y micro procesadora " + computadora.Procesador + " Está encendida";
         }
     }
 }
