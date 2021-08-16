@@ -14,6 +14,18 @@ namespace Computadora
         {
             ClsComputadora clscomputadora = new ClsComputadora();
             NClsComputadora nclscomputadora = new NClsComputadora();
-        }
+            clscomputadora.Targeta_madre = "asus b216";
+            clscomputadora.Capacidad_ram = 16;
+            clscomputadora.Procesador = "i5 th10 generacion";
+            clscomputadora.Disco_duro = 250;
+            clscomputadora.Enfriamiento_liquido = "cool master " ;
+            clscomputadora.Monitor = "asus ";
+            clscomputadora.Mause = "hp";
+            clscomputadora.Teclado = "redragon";
+            clscomputadora.Fuente_de_poder =  "generica" ;
+            clscomputadora.Ups = "toymachin";
+             
+            //Console.WriteLine
+    }
     }
 }
