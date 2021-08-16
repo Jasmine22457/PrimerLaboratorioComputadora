@@ -11,15 +11,15 @@ namespace Computadora.Negocio
     {
         public string Saludo(ClsComputadora computadora)
         {
-            return "";
+            return "Bienvenido querido usuario";
         }
         public string Reiniciar(ClsComputadora computadora)
         {
-            return "";
+            return "Reiniciando computadora";
         }
         public string Apagar(ClsComputadora computadora)
         {
-            return "";
+            return "Apagando computadora";
         }
         public string Encender(ClsComputadora computadora)
         {
